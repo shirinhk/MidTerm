@@ -1,0 +1,60 @@
+@charset"UTF-8";
+/*CSS Document*/
+
+
+/*class*/
+
+.hidden
+{
+    display: none;
+}
+
+.firstpara
+{
+   text-align: center; 
+}
+
+.firstquestion
+{
+    color: darkblue;
+    font-family:sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.shoepicture
+{
+    text-align: center; 
+    padding: 20px;
+}
+
+.text
+{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+
+
+/*id*/
+
+#siteContainer
+{
+
+     margin: auto;
+     background-color: lightgray;
+     width: 1200px;
+}
+
+#header
+{
+    text-align: center;
+   
+}
+
+#footer
+{
+    background-color:crimson;
+    text-align: center;
+}
